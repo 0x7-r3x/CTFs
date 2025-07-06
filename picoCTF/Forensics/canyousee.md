@@ -33,6 +33,7 @@ echo "cGljb0NURntNRTc0RDQ3QV9ISUREM05fZDhjMzgxZmR9Cg==" | base64 -d
 ```
 
 ---
+> 📌 Tip: You can often find flags hidden in metadata — try EXIF tools like `exiftool`, AperiSolve, or even basic `strings`.
 
 ## 🏁 Flag
 
@@ -42,4 +43,3 @@ picoCTF{ME74D47A_HIDD3N_d8c381fd}
 
 ---
 
-> 📌 Tip: You can often find flags hidden in metadata — try EXIF tools like `exiftool`, AperiSolve, or even basic `strings`.
